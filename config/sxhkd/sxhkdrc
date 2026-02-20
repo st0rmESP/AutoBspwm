@@ -157,3 +157,6 @@ ctrl + shift + m
 
 ctrl + @Print
 	flameshot gui
+#ClipMenu
+super + v
+    /usr/local/bin/clipmenu -nb '#222330' -nf '#c6c6e1' -sb '#975FCF' -sf '#222330' -fn 'Monospace:size=12' -p 'Clip:'
