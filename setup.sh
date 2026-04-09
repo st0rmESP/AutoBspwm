@@ -42,7 +42,7 @@ function banner() {
     sleep $sleep_duration
     echo -e "                                    | |                      "
     sleep $sleep_duration
-    echo -e "                                    |_|                         ${endColour}${yellowColour}(${endColour}${grayColour}By ${endColour}${purpleColour}@4alvaro${endColour}${yellowColour})${endColour}${turquoiseColour}"
+    echo -e "                                    |_|                         ${endColour}${yellowColour}(${endColour}${grayColour}By ${endColour}${purpleColour}@st0rm${endColour}${yellowColour})${endColour}${turquoiseColour}"
     sleep $sleep_duration
     echo -e "                                       ${endColour}"
 }
